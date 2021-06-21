@@ -1,1 +1,3 @@
-Put new file
+Put new file as 
+
+/YYYYMM/DD-title.md
